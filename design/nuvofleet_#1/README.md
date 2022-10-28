@@ -1,0 +1,1 @@
+Nuvofleet design vehicle crud.
