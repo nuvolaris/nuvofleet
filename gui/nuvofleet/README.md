@@ -1,6 +1,8 @@
-# nuvofleet
+# Nuvofleet Backoffice UI
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the basic template for Nuvofleet Backoffice. The Backoffice application is hable to manage the fleet of a renting agency.
+The current enviroment is Vue.js.
+
 
 ## Recommended IDE Setup
 
